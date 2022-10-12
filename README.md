@@ -1,4 +1,4 @@
-# getirApp home page view
+# getirApp Home Page View
 
 ### In this project, used collection view structure, table view structure and class structure.
 
